@@ -1,7 +1,7 @@
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)" srcset="" />
     <img alt="PARKHI | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" width="100%" />
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
